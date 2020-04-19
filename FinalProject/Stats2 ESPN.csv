@@ -1,4 +1,4 @@
-RK,PLAYER,AGE,EAGLES,BIRDIES,PARS,BOGEYS,BIRDIES/RD,HOLES/EAGLE
+RK,PlayerName,Age,Eagles,Birdies,Pars,Bogeys,BirdiesPerRound,HolesPerEagle
 1,Martin Laird,37,17,287,929,188,3.588,85
 2,Jhonattan Vegas,35,15,286,792,174,3.972,86
 3,Brooks Koepka,29,15,317,820,155,4.284,89
